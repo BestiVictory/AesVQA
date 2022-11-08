@@ -51,5 +51,3 @@ Please cite the ACM Multimedia paper if you use DPC-Captions in your work:
   bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 ```
-
-https://github.com/spqrv/AVQA/blob/main/image.png
