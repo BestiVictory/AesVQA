@@ -2,7 +2,7 @@
 
 This is an open-source aesthetic visual question answering dataset, which we completed in the [Victory team of Besti](https://www.victory-lab.net/).
 
-There is a folder that includes pictures and a folder that includes pictures for questions and answers. The Images folder contains 90, 000 images from Flickr, an online photography site. The label folder contains 90,000 files, each file corresponds to an image, and each file contains one or more question and answer pairs of the corresponding image (in josn format). There were 212,868 comments in total. There were an average of 2.3652 comments per image.
+There is a folder that includes pictures and a folder that includes pictures for questions and answers. The Images folder contains 90, 000 images from Flickr, an online photography site. The label folder contains 90,000 files, each file corresponds to an image, and each file contains one or more question and answer pairs of the corresponding image. There were 212,868 comments in total.There were an average of 2.3652 comments per image.
 
 *************************************************************************************
 ### The number of each question of AVQA Dataset.
@@ -19,16 +19,16 @@ There is a folder that includes pictures and a folder that includes pictures for
   
 ### example1
    
-![](https://i.loli.net/2019/12/12/t9Fq7QGh5e8sTbE.png)  
+![](https://github.com/spqrv/AVQA/blob/main/1667917416346.png)  
 
   
 ### example2
 
-![](https://i.loli.net/2019/12/12/t9Fq7QGh5e8sTbE.png) 
+![](https://github.com/spqrv/AVQA/blob/main/1667917703897.png) 
   
 ### Our Paper  
   
-Xin Jin, Le Wu, Geng Zhao, Xiaodong Li, Xiaokun Zhang, Shiming Ge, Dongqing Zou, Bin Zhou, Xinghui Zhou. Aesthetic Attributes Assessment of Images. ACM Multimedia (ACMMM), Nice, France, 21-25 Oct. 2019. **[pdf-HD](http://jinxin.me/downloads/papers/031-MM2019/MM2019-HighRes.pdf)**(31.1MB)  **[pdf-LR](http://jinxin.me/downloads/papers/031-MM2019/MM2019-LowRes.pdf)**(1.11MB) **[arXiv](https://arxiv.org/abs/1907.04983)**(1907.04983)
+Xin Jin, Wu Zhou, Xinghui Zhou, Shuai Cui, Le Zhang, Jianwen Lv, Shu Zhao. Aesthetic Visual Question Answering of Photographs. Computer Vision and Pattern Recognition (cs.CV).  **[arXiv](https://arxiv.org/abs/2208.05798)**(2208.05798)
 
 
 ### Citation
