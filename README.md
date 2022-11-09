@@ -36,18 +36,11 @@ Xin Jin, Wu Zhou, Xinghui Zhou, Shuai Cui, Le Zhang, Jianwen Lv, Shu Zhao. Aesth
 Please cite the ACM Multimedia paper if you use DPC-Captions in your work:
 
 ```
-@inproceedings{DBLP:conf/mm/JinWZLZGZZZ19,
-  author    = {Xin Jin, Le Wu, Geng Zhao, Xiaodong Li, Xiaokun Zhang, Shiming Ge, Dongqing Zou, Bin Zhou and Xinghui Zhou},
-  title     = {Aesthetic Attributes Assessment of Images},
-  booktitle = {Proceedings of the 27th {ACM} International Conference on Multimedia,
-               {MM} 2019, Nice, France, October 21-25, 2019},
-  pages     = {311--319},
-  year      = {2019},
-  crossref  = {DBLP:conf/mm/2019},
-  url       = {https://doi.org/10.1145/3343031.3350970},
-  doi       = {10.1145/3343031.3350970},
-  timestamp = {Fri, 06 Dec 2019 16:44:03 +0100},
-  biburl    = {https://dblp.org/rec/bib/conf/mm/JinWZLZGZZZ19},
-  bibsource = {dblp computer science bibliography, https://dblp.org}
+@article{Jin2022AestheticVQ,
+  title={Aesthetic Visual Question Answering of Photographs},
+  author={Xin Jin and Wu Zhou and Xinghui Zhou and Shuai Cui and Le Zhang and Jianwen Lv and Shu Zhao},
+  journal={ArXiv},
+  year={2022},
+  volume={abs/2208.05798}
 }
 ```
