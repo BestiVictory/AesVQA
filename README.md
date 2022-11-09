@@ -19,12 +19,12 @@ There is a folder that includes pictures and a folder that includes pictures for
   
 ### example1
    
-![](https://github.com/spqrv/AVQA/blob/main/1667917416346.png)  
+![](https://github.com/spqrv/AVQA/blob/main/0f4f017440367f2716da1235401bb77.png)  
 
   
 ### example2
 
-![](https://github.com/spqrv/AVQA/blob/main/1667917703897.png) 
+![](https://github.com/spqrv/AVQA/blob/main/7f2a2d29bccd0fdd52af169761ba2d5.png) 
   
 ### Our Paper  
   
