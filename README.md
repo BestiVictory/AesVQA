@@ -2,7 +2,7 @@
 
 This is an open-source aesthetic visual question answering dataset, which we completed in the [Victory team of Besti](https://www.victory-lab.net/).
 
-There is a folder that includes pictures and a folder that includes pictures for questions and answers. The Images folder contains 90, 000 images from Flickr, an online photography site. The label folder contains 90,000 files, each file corresponds to an image, and each file contains one or more question and answer pairs of the corresponding image. There were 212,868 comments in total.There were an average of 2.3652 comments per image.
+There is a folder that includes pictures and a folder that includes pictures for questions and answers. The Images folder contains 90, 000 images from Flickr, an online photography site. The label folder contains 90,000 files, each file corresponds to an image, and each file contains one or more question and answer pairs of the corresponding image. There were 212,868 comments in total and there were an average of 2.3652 comments per image.
 
 *************************************************************************************
 ### The number of each question of AVQA Dataset.
@@ -19,12 +19,12 @@ There is a folder that includes pictures and a folder that includes pictures for
   
 ### example1
    
-![](https://github.com/spqrv/AVQA/blob/main/0f4f017440367f2716da1235401bb77.png)  
+![](0f4f017440367f2716da1235401bb77.png)  
 
   
 ### example2
 
-![](https://github.com/spqrv/AVQA/blob/main/7f2a2d29bccd0fdd52af169761ba2d5.png) 
+![](7f2a2d29bccd0fdd52af169761ba2d5.png) 
   
 ### Our Paper  
   
