@@ -9,15 +9,13 @@ If you want to further understand and use this dataset, please apply by Request 
 *************************************************************************************
 ### VQA datasets’ answer words length accounted for the proportion of all answers table.
 
-| Question      | The number of each question     |
+| Question      | The number of each question     |          |
 | ---------- | :-----------:  |
-| What is the light scheme of this photo?      |  59130     |
-| What is the subject of this photo?           |  50337     |
-| What is the technique of this photo?     | 17930     |
-| What is the color scheme of this photo?      | 35152     |
-| How does this photo feel?                    | 15695    |
-| What is the genre scheme of this photo?      | 21483    |
-| What is the composition of this photo?      | 13141    |
+| Dataset      |  One Word Yes/No Two Words or More     |  The Number of QA Pairs |
+| VQAv2           |  51.2% 45.0% 3.8%      | 1,105,904 |
+| Visual7W     | 51.2% 21.2% 27.6%     |139,868|
+| Visual Genome      | 52.5% 21.2% 26.3%     |1,445,233|
+| AesVQA            | 61.0% 0% 59.0%    |345,354|
 
 ### The number of each question of AesVQA Dataset.
 
