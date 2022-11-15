@@ -1,4 +1,4 @@
-# AVQA
+# AesVQA
 
 This is an open-source aesthetic visual question answering dataset, which we completed in the [Victory team of Besti](https://www.victory-lab.net/).
 
@@ -7,7 +7,7 @@ There is a folder that includes pictures and a folder that includes pictures for
 If you want to further understand and use this dataset, please apply by Request access.doc and send it to jinxinbesti@foxmail.com. We will tell you how to have an access to this dataset by email according to your application.
 
 *************************************************************************************
-### The number of each question of AVQA Dataset.
+### The number of each question of AesVQA Dataset.
 
 | Question      | The number of each question     |
 | ---------- | :-----------:  |
