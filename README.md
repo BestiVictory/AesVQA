@@ -11,11 +11,12 @@ If you want to further understand and use this dataset, please apply by Request 
 
 | Question      | The number of each question     |          |
 | ---------- | :-----------:  | ---------- |
-| Dataset      |  One Word Yes/No Two Words or More     |  The Number of QA Pairs |
-| VQAv2           |  51.2% 45.0% 3.8%      | 1,105,904 |
-| Visual7W     | 51.2% 21.2% 27.6%     |139,868|
-| Visual Genome      | 52.5% 21.2% 26.3%     |1,445,233|
-| AesVQA            | 61.0% 0% 59.0%    |345,354|
+| ---------- | ---------- | ---------- | ---------- | ---------- |
+| Dataset      |  One Word | Yes/No | Two Words or More     |  The Number of QA Pairs |
+| VQAv2           |  51.2% | 45.0% | 3.8%      | 1,105,904 |
+| Visual7W     | 51.2% | 21.2% | 27.6%     |139,868|
+| Visual Genome      | 52.5% | 21.2% | 26.3%     |1,445,233|
+| AesVQA            | 51.0% | 0% | 59.0%    |345,354|
 
 ### The number of each question of AesVQA Dataset.
 
