@@ -10,7 +10,6 @@ If you want to further understand and use this dataset, please apply by Request 
 ### VQA datasets’ answer words length accounted for the proportion of all answers table.
 
 | Question      | The number of each question     |          |
-| ---------- | :-----------:  | ---------- |
 | ---------- | ---------- | ---------- | ---------- | ---------- |
 | Dataset      |  One Word | Yes/No | Two Words or More     |  The Number of QA Pairs |
 | VQAv2           |  51.2% | 45.0% | 3.8%      | 1,105,904 |
