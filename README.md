@@ -7,6 +7,18 @@ There is a folder that includes pictures and a folder that includes pictures for
 If you want to further understand and use this dataset, please apply by Request access.doc and send it to jinxinbesti@foxmail.com. We will tell you how to have an access to this dataset by email according to your application.
 
 *************************************************************************************
+### VQA datasets’ answer words length accounted for the proportion of all answers table.
+
+| Question      | The number of each question     |
+| ---------- | :-----------:  |
+| What is the light scheme of this photo?      |  59130     |
+| What is the subject of this photo?           |  50337     |
+| What is the technique of this photo?     | 17930     |
+| What is the color scheme of this photo?      | 35152     |
+| How does this photo feel?                    | 15695    |
+| What is the genre scheme of this photo?      | 21483    |
+| What is the composition of this photo?      | 13141    |
+
 ### The number of each question of AesVQA Dataset.
 
 | Question      | The number of each question     |
