@@ -44,7 +44,7 @@ Xin Jin, Wu Zhou, Xinghui Zhou, Shuai Cui, Le Zhang, Jianwen Lv, Shu Zhao. Aesth
 
 ### Citation
 
-Please cite the ACM Multimedia paper if you use DPC-Captions in your work:
+Please cite the Computer Vision and Pattern Recognition paper if you use AesVQA in your work:
 
 ```
 @article{Jin2022AestheticVQ,
